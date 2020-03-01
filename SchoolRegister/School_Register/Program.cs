@@ -10,7 +10,7 @@ namespace School_Register
     {
         static void Main(string[] args)
         {
-            //this is a fresh new project containing the 3 Nuget packages, 4 empty folders and this comment in Program.cs Hai
+            Console.WriteLine("this is a fresh new project containing the 3 Nuget packages, 4 empty folders and this comment in Program.cs Hai");
         }
     }
 }
